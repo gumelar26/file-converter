@@ -1,0 +1,4 @@
+{"name": "Gilbert", "win_type": "straight", "card": "7\u2663"}
+{"name": "Gilbert", "win_type": "one pair", "card": "10\u2665"}
+{"name": "Alice", "win_type": "flush", "card": "Q\u2666"}
+{"name": "Alice", "win_type": "three of a kind", "card": "5\u2660"}
